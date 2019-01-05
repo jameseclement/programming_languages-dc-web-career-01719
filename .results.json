@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":"3.8.0","examples":[{"id":"./spec/programming_languages_spec.rb[1:1]","description":"reformats ruby properly","full_description":"#reformat_languages reformats ruby properly","status":"passed","file_path":"./spec/programming_languages_spec.rb","line_number":41,"run_time":18.126047346,"pending_message":null}],"summary":{"duration":18.128306212,"example_count":1,"failure_count":0,"pending_count":0,"errors_outside_of_examples_count":0},"summary_line":"1 example, 0 failures"}
+=======
+{"version":"3.8.0","examples":[{"id":"./spec/programming_languages_spec.rb[1:1]","description":"reformats ruby properly","full_description":"#reformat_languages reformats ruby properly","status":"passed","file_path":"./spec/programming_languages_spec.rb","line_number":41,"run_time":170.629464286,"pending_message":null}],"summary":{"duration":170.631738878,"example_count":1,"failure_count":0,"pending_count":0,"errors_outside_of_examples_count":0},"summary_line":"1 example, 0 failures"}
+>>>>>>> b09edc0d3b7ed2043f54e8c2f50381837d253d63

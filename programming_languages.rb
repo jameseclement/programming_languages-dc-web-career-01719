@@ -9,7 +9,7 @@ require 'pry'
          new_hash[language][:style] << style
        else
          new_hash[language] = type
-         new_hash[language][:style] = [style]
+         new_hash[language][:style] = style
        end
           }
           }
